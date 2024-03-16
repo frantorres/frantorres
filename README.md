@@ -15,7 +15,7 @@
 
 🗺️ Fun fact: I have an uncanny ability for orientation.
 
-📫 Reach me through my social networks or [contact methods on my website](https://frantorres.wtf/#contact).
+📫 Reach me through my social networks or [contact methods on my website](https://frantorres.es/en/#contact).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

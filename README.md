@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://frantorres.es/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://frantorres.wtf/feed" height="30" width="40" /></a>
+<a href="https://frantorres.es/en/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://frantorres.wtf/feed" height="30" width="40" /></a>
 <a href="https://profiles.wordpress.org/frantorres" target="blank"><img align="center" src="https://github.com/courtneyr-dev/courtneyr-dev/blob/main/images/wordpress.png?raw=true" alt="https://https://profiles.wordpress.org/frantorres" height="40" width="40" /></a>
 <a href="https://mastodon.social/@frantorres" target="blank" rel="me"><img align="center" src="https://github.com/courtneyr-dev/courtneyr-dev/blob/main/images/mastodon.png?raw=true" alt="https://mastodon.social/@frantorres" height="40" width="40" /></a>
 <a href="https://twitter.com/frantorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frantorres" height="30" width="40" /></a>
